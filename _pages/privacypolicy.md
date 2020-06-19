@@ -16,9 +16,6 @@ If you have additional questions or require more information about this Privacy 
 ## 1.0 Information We Collect
 This website itself collects no data on usage or user activity and the Privacy Policy applies to apps available on app stores only.
 
-### 1.1 Information you provide to us 
-If contacted, you may share personally identifiable information with me such as name, email address and phone number. This data is not shared with third parties and is only used for communicating between myself and the user - typically via email.
-
 <br>
 
 ## 2.0 What Personal Information we collect about you and how we collect it
