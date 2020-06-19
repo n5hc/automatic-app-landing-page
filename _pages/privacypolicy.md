@@ -14,7 +14,7 @@ If you have additional questions or require more information about this Privacy 
 <br>
 
 ## 1.0 Information We Collect
-This website itself collects no data on usage or user activity and the Privacy Policy applies to apps available on app stores only.
+This app itself collects no data on usage or user activity and the Privacy Policy applies to apps available on app stores only.
 
 <br>
 
