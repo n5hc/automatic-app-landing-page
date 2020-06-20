@@ -9,7 +9,7 @@ June 11 2020
 
 # App Privacy Policy
 This Privacy Policy contains the type of information collected by me in apps available on the Apple App Store and how I use that data. 
-If you have additional questions or require more information about this Privacy Policy, please contact me via email at privacy@n5hc.com
+If you have additional questions or require more information about this Privacy Policy, please contact me via email at privacy@q-code.info
 
 <br>
 
